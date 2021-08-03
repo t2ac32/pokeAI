@@ -1,6 +1,9 @@
 
 ### Userfiles ###
-games/
+games/*
+
+### exception to the rule ###
+!games/.gitkeep 
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
